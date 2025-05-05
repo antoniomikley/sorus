@@ -1,0 +1,4 @@
+{
+  PublicKey="${wg_client_public_key}";
+  AllowedIPs = ["${wg_client_ip_v4}"];
+} 
